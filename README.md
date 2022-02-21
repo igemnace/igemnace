@@ -1,12 +1,10 @@
-# Who I Am
+# About Me
 
 Hi, I'm Ian. You may also know me as Zac (short for Isaac).
 
-I am a software developer, primarily engaged in web development.
-
 I've worked mainly in health-tech, where I previously developed comprehensive
 health facility management systems (along with a small core team of developers),
-which is being used to serve over a million patients across the Philippines.
+which are being used to serve over a million patients across the Philippines.
 
 I come from a physics background, having studied it in my undergrad. I've since
 been developing software, with a knack for technical complexity and the cutting
@@ -15,6 +13,9 @@ edge.
 My analytical nature, combined with a natural yearning to make complex systems
 simple and elegant, allows me to work with deeply technical concepts and turn
 them into products for the everyday user.
+
+My latest work revolves around zero-knowledge proofs, blockchain, and their
+applications in health-tech.
 
 # What I Love
 
