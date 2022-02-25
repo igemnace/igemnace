@@ -2,9 +2,9 @@
 
 Hi, I'm Ian. You may also know me as Zac (short for Isaac).
 
-I've worked mainly in health-tech, where I previously developed comprehensive
-health facility management systems (along with a small core team of developers),
-which are being used to serve over a million patients across the Philippines.
+I've worked mainly in health-tech, where I develop comprehensive health facility
+management systems (along with a small core team of developers), which are being
+used to serve over a million patients across the Philippines.
 
 I come from a physics background, having studied it in my undergrad. I've since
 been developing software, with a knack for technical complexity and the cutting
