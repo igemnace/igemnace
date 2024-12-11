@@ -17,23 +17,4 @@ undergraduate studies were in Applied Physics. I enjoy browsing [the Physics Sta
 for brain-tickling discussion.
 
 I enjoy **discussion about software**. Catch me on IRC: igemnace on [libera.chat](irc://irc.libera.chat).
-I frequent the following channels:
-
-- #archlinux
-- #bash
-- #commonlisp
-- #crypto
-- #emacs
-- #git
-- #haskell
-- ##latin
-- #lobsters
-- ##math
-- #neovim
-- #nethack
-- #node.js
-- #pass
-- #physics
-- #rust
-- #sr.ht
-- #vim
+I frequent #archlinux, #bash, #git, #lobsters, and #vim, among others!
